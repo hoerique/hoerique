@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💎 About Me:
 Apaixonado por dados e automação, venho explorando o poder do IA, python e automação desde 2023, aplicando essas ferramentas em projetos reais e soluções inteligentes. Tenho experiência com criação de dashboards estratégicos, análise de performance e otimização de processos. Estou sempre em busca de evoluir, aprender novas tecnologias e transformar dados em decisões valiosas. Hoje, meu foco é crescer na área de Data Analytics, unindo técnica, visão de negócio e criatividade.
 
 
